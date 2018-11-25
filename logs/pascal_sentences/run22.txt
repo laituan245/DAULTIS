@@ -1,0 +1,56 @@
+---------------------
+iters: 0
+GEN Total Loss: 39.494675
+DIS Total Loss: 2.099056
+RECON Loss: 18127.723 571.23456
+CYCLE Loss: 18118.824 572.0887
+Mean Correlation: -0.0017534896731376648
+AUC Score: 0.5206000000000001
+---------------------
+iters: 100
+GEN Total Loss: 8.20802
+DIS Total Loss: 1.9339058
+RECON Loss: 2426.7349 483.0938
+CYCLE Loss: 2560.2222 482.9617
+Mean Correlation: -0.054700352251529694
+AUC Score: 0.43985
+---------------------
+iters: 200
+GEN Total Loss: 7.4823914
+DIS Total Loss: 2.031047
+RECON Loss: 2147.2754 426.22607
+CYCLE Loss: 2340.5073 421.74924
+Mean Correlation: 0.07343587055802345
+AUC Score: 0.5401750000000001
+---------------------
+iters: 300
+GEN Total Loss: 7.077154
+DIS Total Loss: 2.0144362
+RECON Loss: 1983.5385 389.41153
+CYCLE Loss: 2152.6248 388.3239
+Mean Correlation: 0.013531815353780985
+AUC Score: 0.5045000000000001
+---------------------
+iters: 400
+GEN Total Loss: 6.80232
+DIS Total Loss: 2.043518
+RECON Loss: 1889.0747 369.33438
+CYCLE Loss: 2045.8555 369.17923
+Mean Correlation: -0.018641708506038412
+AUC Score: 0.4758
+---------------------
+iters: 500
+GEN Total Loss: 6.5142746
+DIS Total Loss: 2.0693555
+RECON Loss: 1768.9873 349.94067
+CYCLE Loss: 1944.8215 349.7111
+Mean Correlation: 0.0014343986287713051
+AUC Score: 0.48732499999999995
+---------------------
+iters: 600
+GEN Total Loss: 6.331722
+DIS Total Loss: 2.0594807
+RECON Loss: 1689.4137 333.9646
+CYCLE Loss: 1859.3322 334.25085
+Mean Correlation: -0.00531455110758543
+AUC Score: 0.4978250000000001
